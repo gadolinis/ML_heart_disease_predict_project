@@ -1,0 +1,1 @@
+The purpose of this project is to learn sklearn libraries and ML models optimization methods.
